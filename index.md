@@ -7,9 +7,9 @@ image: null
 author: null
 ---
 
-I am an engineer at [Mapbox](http://mapbox.com), a trail runner, a rock climber, a photography enthusiast, a map nerd, and an endurance ski racer. At work, I prototype new systems using Mapbox's location data to understand how people move around. If I'm not at work, I'm usually doing something in the mountains.
+I am an engineer at [Collins Aerospace](http://www.collinsaerospace.com). At work, I develop computational algorithms for mechanical design of aircraft components . This website contains projects that I have done during my undergraduate education at National Institute of Technology Karnataka.
 
-Want to get in touch? Drop me a line at [scott.farley@mapbox.com](mailto:scott.farley@mapbox.com).
+Want to get in touch? Drop me a line at [abhinavmuraleedharan@gmail.com](mailto:abhinavmuraleedharan@gmail.com).
 
 
 #### Past Projects
