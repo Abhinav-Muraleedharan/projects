@@ -1,17 +1,17 @@
 # site settings
-title: Scott Farley
+title: Abhinav Muraleedharan
 subtitle:
-email: scott.farley@mapbox.com
-description: Engineer, Data Scientist, Adventurer
+email: abhinavmuraleedharan@gmail.com 
+description: Engineer, Roboticist, Entrepreneur
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author: Scott Farley
+author: Abhinav Muraleedharan
 street_address:
 city: San Francisco
 state: CA
 zip_code: 94122
-country: United States of America
-phone: (626) 264-0741
+country: India
+phone: +918549958571
 highlighter: rouge
 
 # homepage tiles
@@ -21,11 +21,10 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: http://github.com/scottsfarley93
-instagram_url: https://www.instagram.com/scottsfarley/
-linkedin_url: https://www.linkedin.com/in/scott-farley-25902581
-twitter_url: https://twitter.com/scottsfarley93
-
+github_url: http://github.com/Abhinav-Muraleedharan 
+instagram_url: https://www.instagram.com/abhinavmuraleedharan/
+linkedin_url: https://www.linkedin.com/in/Abhinav-Muraleedharan
+twitter_url: https://twitter.com/abhinav98m
 # build settings
 markdown: kramdown
 
